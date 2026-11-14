@@ -143,7 +143,3 @@ do{
   }
   confirmar=seguir()
 }while(confirmar===true)
-console.log(productos)
-for (let i = 0; i < productos.length; i++) {
-  productos[i].imprimir();
-}
